@@ -32,3 +32,4 @@ C:\Users\zohrs\OneDrive\Documents\School\CSharp2\Lektion01\vehicles-api\obj\Debu
 C:\Users\zohrs\OneDrive\Documents\School\CSharp2\Lektion01\vehicles-api\obj\Debug\net9.0\vehicles-api.genruntimeconfig.cache
 C:\Users\zohrs\OneDrive\Documents\School\CSharp2\Lektion01\vehicles-api\obj\Debug\net9.0\ref\vehicles-api.dll
 C:\Users\zohrs\OneDrive\Documents\School\CSharp2\Lektion01\vehicles-api\bin\Debug\net9.0\Data\vehicles.json
+C:\Users\zohrs\OneDrive\Documents\School\CSharp2\Lektion01\vehicles-api\obj\Debug\net9.0\vehicles-api.sourcelink.json
