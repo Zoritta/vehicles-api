@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vX5Dq6QJrjk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zohrs\\OneDrive\\Documents\\School\\CSharp2\\Lektion01\\vehicles-api\\vehicles-api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zohrs\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\zohrs\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
